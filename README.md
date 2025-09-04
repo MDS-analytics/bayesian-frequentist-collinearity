@@ -1,4 +1,4 @@
-markdown# Residualisation and Multicollinearity in OLS and Bayesian Frameworks
+# Residualisation and Multicollinearity in OLS and Bayesian Frameworks
 
 This repository contains simulation code for the research paper "Residualisation and Multicollinearity in OLS and Bayesian Frameworks" which demonstrates that traditional collinearity diagnostics work identically across frequentist and Bayesian statistical paradigms.
 
