@@ -1,3 +1,8 @@
+#    /\_/\  
+#   ( o.o ) 
+#    > ^ <    "Prior beliefs about treats: Very high!"
+
+
 # --- Purpose ---------------------------------------------------------------
 # Simulate linear data under varying sample sizes (n) and collinearity levels (rho),
 # fit both frequentist (lm) and Bayesian (brms) regressions before and after
